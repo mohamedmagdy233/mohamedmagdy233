@@ -2,7 +2,6 @@
 
 🔭 I’m currently working on open-source projects using the Laravel Framework.  
 🌱 Continuously learning new technologies.  
-🏗 Developing free Quasar app extensions, Chrome extensions, templates, and components.  
 💬 Feel free to ask me about the Laravel framework and other technologies such as PHP, SQL, OOP, HTML, CSS, Bootstrap, JavaScript, jQuery, and more.  
 📫 How to reach me: mohamed.magedi.backend@gmail.com  
 🖼️ Passionate about helping developers.
