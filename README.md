@@ -6,8 +6,6 @@
 📫 How to reach me: mohamed.magedi.backend@gmail.com  
 🖼️ Passionate about helping developers.
 
-## 🛠 Skills
-HTML, CSS, JavaScript, Bootstrap, jQuery, PHP, SQL, OOP, Laravel
 
 ## 🏆 GitHub Profile Trophy
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=mohamedmagdy233&column=7)
