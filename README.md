@@ -26,11 +26,12 @@
 <br>
 ## 🛠️ Server Management Tools:
 <div align="center">
-    <img alt="cPanel" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sectorlink.com%2Farticle%2Fwhat-is-cpanel-and-what-are-the-benefits&psig=AOvVaw0w9ZAQ8lV06gJ8TAo28Ibh&ust=1733674906346000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJid8f6IlooDFQAAAAAdAAAAABAm" width="100" />
-    <img alt="Plesk" src="https://example.com/path-to-plesk-image.png" width="100" />
-    <img alt="hPanel" src="https://example.com/path-to-hpanel-image.png" width="100" />
+    <img alt="cPanel" src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" width="100" />
+    <img alt="Plesk" src="https://img.shields.io/badge/Plesk-52BCED?style=for-the-badge&logo=plesk&logoColor=white" width="100" />
+    <img alt="hPanel" src="https://img.shields.io/badge/hPanel-007ACC?style=for-the-badge&logoColor=white" width="100" />
 </div>
 <br>
+
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
