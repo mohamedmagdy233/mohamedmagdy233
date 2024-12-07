@@ -22,10 +22,13 @@
     <img src="https://skillicons.dev/icons?i=php,laravel,mysql,javascript,html,css,bootstrap,git,firebase,postman" />
     <img src="https://skillicons.dev/icons?i=github,vscode" /><br>
     
-    <!-- Server Management Tools -->
-    <img alt="cPanel" src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
-    <img alt="Plesk" src="https://img.shields.io/badge/Plesk-52BCED?style=for-the-badge&logo=plesk&logoColor=white" />
-    <img alt="hPanel" src="https://img.shields.io/badge/hPanel-007ACC?style=for-the-badge&logoColor=white" />
+</div>
+<br>
+## 🛠️ Server Management Tools:
+<div align="center">
+    <img alt="cPanel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/CPanel_logo.svg/1200px-CPanel_logo.svg.png" width="100" />
+    <img alt="Plesk" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Plesk_logo.svg/1200px-Plesk_logo.svg.png" width="100" />
+    <img alt="hPanel" src="https://example.com/path-to-hpanel-image.png" width="100" /> <!-- Replace with a valid URL -->
 </div>
 <br>
 
