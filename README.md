@@ -51,9 +51,9 @@
     <a href="mailto:mohamed.magedi.backend@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
-    <a href="https://mohamedmagdy233.github.io/portfolio/">
+<!--     <a href="https://mohamedmagdy233.github.io/portfolio/">
         <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
-    </a>
+    </a> -->
     <a href="https://wa.me/01024791856">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
