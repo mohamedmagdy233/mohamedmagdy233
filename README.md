@@ -26,9 +26,9 @@
 <br>
 ## 🛠️ Server Management Tools:
 <div align="center">
-    <img alt="cPanel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/CPanel_logo.svg/1200px-CPanel_logo.svg.png" width="100" />
-    <img alt="Plesk" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Plesk_logo.svg/1200px-Plesk_logo.svg.png" width="100" />
-    <img alt="hPanel" src="https://example.com/path-to-hpanel-image.png" width="100" /> <!-- Replace with a valid URL -->
+    <img alt="cPanel" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sectorlink.com%2Farticle%2Fwhat-is-cpanel-and-what-are-the-benefits&psig=AOvVaw0w9ZAQ8lV06gJ8TAo28Ibh&ust=1733674906346000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJid8f6IlooDFQAAAAAdAAAAABAm" width="100" />
+    <img alt="Plesk" src="https://example.com/path-to-plesk-image.png" width="100" />
+    <img alt="hPanel" src="https://example.com/path-to-hpanel-image.png" width="100" />
 </div>
 <br>
 
