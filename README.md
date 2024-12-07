@@ -24,7 +24,7 @@
     
 </div>
 <br>
-## 🛠️ Server Management Tools:
+ 🛠️ Server Management Tools:
 <div align="center">
     <img alt="cPanel" src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" width="100" />
     <img alt="Plesk" src="https://img.shields.io/badge/Plesk-52BCED?style=for-the-badge&logo=plesk&logoColor=white" width="100" />
