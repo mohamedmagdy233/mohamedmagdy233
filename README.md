@@ -20,7 +20,6 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,javascript,html,css,bootstrap,git,firebase,postman" />
     <img src="https://skillicons.dev/icons?i=github,vscode,cpanel,plesk,hpanel" /><br>
 </div>
 
