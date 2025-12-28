@@ -19,14 +19,6 @@ Backend Developer with over **2.5 years of experience** building scalable backen
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
-
-## 🚀 Languages and Tools:
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,javascript,html,css,bootstrap,git,firebase,postman,linux,docker,vscode,idea" />
-</div>
-
-<br>
-
 ## ⚙️ Server Management Tools:
 <div align="center">
     <img alt="cPanel" src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" width="100" />
