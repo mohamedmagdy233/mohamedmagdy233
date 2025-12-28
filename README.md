@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+there,+I'm+Mohamed+Magdy;Backend+Architect+%7C+Laravel+Expert;CTO+%26+Team+Leader+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+there,+I'm+Mohamed+Magdy;Backend+Architect+%7C+Laravel+Expert;CTO+%26+Co-Founder+at+Octopus+Team+🚀" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/mohamed-magdy-812250223" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -12,8 +12,7 @@
 
 ## 🚀 Professional Summary
 
-Backend Engineer with **2.5+ years of experience** specializing in the **PHP/Laravel** ecosystem.  
-I have a proven track record of building scalable, production-grade systems and high-performance APIs. As a **CTO and former Backend Team Lead**, I bridge the gap between technical excellence and business-driven solutions, having successfully delivered **25+ production apps** used by thousands of users.
+Backend Engineer with **2.5+ years of experience**. I am a **Co-Founder & CTO at Octopus Team**, specialized in building scalable systems and high-performance APIs using **PHP and Laravel**. I focus on clean architecture and seamless third-party integrations (Firebase, Stripe, Paymob).
 
 ---
 
@@ -24,12 +23,12 @@ I have a proven track record of building scalable, production-grade systems and 
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis,firebase" />
 </p>
 
-### ⚙️ DevOps & Deployment (Server Management)
+### 📱 Frontend & Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,bash" />
+  <img src="https://skillicons.dev/icons?i=flutter,html,css,js" />
 </p>
 
-**Expertise in:** `Clean Architecture (SOLID)` • `RESTful APIs` • `System Design` • `Payment Gateways (Stripe, Paymob, Fawaterk)` • `CI/CD (Learning)`
+**Expertise in:** `Clean Architecture` • `RESTful APIs` • `System Design` • `Payment Gateways` • `Docker (Learning)`
 
 ---
 
@@ -41,39 +40,25 @@ I have a proven track record of building scalable, production-grade systems and 
 
 ---
 
-## 💼 Experience
+## 💼 Experience & Leadership
 
-| Role | Company | Period | Highlight |
-|---|---|---|---|
-| **Backend Developer** | [Dom App Hub](https://www.domapphub.com/) | Aug 2025 – Present | Architecting solutions for the Saudi Arabian market. |
-| **Co-Founder & CTO** | [Octopus Team](https://octopusteam.net/) | Jun 2023 – Present | Leading tech strategy and backend architecture for 12+ apps. |
-| **Backend Team Lead** | [TopBusiness](https://topbuziness.com/ar) | Aug 2023 – Aug 2025 | Managed the backend team and delivered 15+ complex projects. |
-| **Backend Developer** | [Tek Part](https://tek-part.com/) | Jan 2023 – Aug 2023 | Developed e-commerce and educational platforms. |
-
----
-
-## 🚀 Featured Projects
-
-| Project | Key Tech | Links |
+| Role | Company | Period |
 |---|---|---|
-| **Waslny** | `Laravel`, `MySQL`, `Firebase`, `Payments` | [Play Store](https://play.google.com/store/apps/details?id=com.topbusiness.waslny) • [Web](https://waslny.octopusteam.net/) |
-| **RDAPP** | `Scalable APIs`, `Mobile Backend` | [App Store](https://apps.apple.com/us/app/rdapp-client/id6743003162) • [Play Store](https://play.google.com/store/apps/details?id=com.rdapp.EUA) |
-| **Mydany (KSA Gov)** | `Firestore`, `Real-time Tracking` | *Internal Government Project* |
-| **Baraddy** | `E-commerce`, `Payment Gateway` | [Web](https://app.baraddy.com/) • [Play Store](https://play.google.com/store/apps/details?id=com.topbusiness.baraddy.user) |
-| **Ajjel** | `Debt Collection`, `WhatsApp API` | [Website](https://ajjel.net/ar) |
+| **Backend Developer** | [Dom App Hub](https://www.domapphub.com/) | Aug 2025 – Present |
+| **Co-Founder & CTO** | [Octopus Team](https://octopusteam.net/) | Jun 2023 – Present |
+| **Backend Team Lead** | TopBusiness | Aug 2023 – Aug 2025 |
 
 ---
 
-## ⚙️ Server & Deployment Mastery
-- **Infrastructure:** Expertise in **VPS management**, SSL configuration, and environment optimization.
-- **Tools:** Experienced with **cPanel, Plesk, hPanel**, and configuring **Cron Jobs/Queues** for background processing.
-- **Monitoring:** Handling production issues, server-side performance tuning, and database optimization.
+## 🏗️ Current Projects
+- **Forget App:** A task reminder mobile application currently under development to help users manage their daily tasks efficiently.
+- **Octopus Team Ecosystem:** Developing scalable backend solutions and APIs for our partner projects.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect with me
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mohamedmagdy233&color=blueviolet" />
 </div>
 
-📌 **Open to senior backend roles, freelance projects, and technical collaborations.** If you need a reliable backend architect to turn your vision into a scalable reality — **let's talk.**
+📌 **Open to technical collaborations and backend roles.** As a fan of **Al Zamalek Egypt FC**, I bring the same passion for excellence to every line of code I write.
