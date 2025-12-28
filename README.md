@@ -4,13 +4,13 @@
 <br>
 
 ## 🙋‍♂️ About Me:
-Backend Developer with over **2.5 years of experience** building scalable backend systems and high-performance APIs using **Laravel**. I focus on clean architecture, third-party integrations (Firebase, payment gateways), and delivering maintainable, business-driven solutions.
+Backend Developer with over **2.5 years of experience** building scalable backend systems and high-performance APIs using **Laravel**. I focus on clean architecture, third-party integrations (Firebase, payment gateways like Paymob, Stripe, Fawaterk), and delivering maintainable, business-driven solutions.
 
 - 🔭 I’m currently working on **open-source projects** and scalable backends at **Dom App Hub**.
 - 🌱 Continuously learning new technologies like **Docker** and **AWS**.
 - 💬 Feel free to ask me about **Laravel**, **PHP**, **System Design**, and **API Development**.
 - 📫 How to reach me: [mohamed.magedi.backend@gmail.com](mailto:mohamed.magedi.backend@gmail.com)
-- 🌐 **My Portfolio**: [Visit My Portfolio](https://mohamedmagdy233.github.io/my-portfolio/)
+- 🌐 **My Portfolio**: [Visit My Portfolio](https://matter.octopusteam.net/)
 - 🖼️ Passionate about helping developers and sharing technical insights.
 
 <br>
@@ -32,6 +32,7 @@ Backend Developer with over **2.5 years of experience** building scalable backen
     <img alt="cPanel" src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" width="100" />
     <img alt="Plesk" src="https://img.shields.io/badge/Plesk-52BCED?style=for-the-badge&logo=plesk&logoColor=white" width="100" />
     <img alt="hPanel" src="https://img.shields.io/badge/hPanel-007ACC?style=for-the-badge&logoColor=white" width="100" />
+    <img alt="VPS" src="https://img.shields.io/badge/VPS-8A2BE2?style=for-the-badge&logo=server&logoColor=white" width="100" />
 </div>
 
 <br>
@@ -75,7 +76,7 @@ Backend Developer with over **2.5 years of experience** building scalable backen
 
 ## 🤝 Connect With Me:
 <div align="center">
-    <a href="https://mohamedmagdy233.github.io/my-portfolio/" target="_blank">
+    <a href="https://matter.octopusteam.net/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/mohamed-magdy-812250223" target="_blank">
