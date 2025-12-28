@@ -24,7 +24,7 @@ Backend Developer with over **2.5 years of experience** building scalable backen
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,javascript,html,css,bootstrap,git,firebase,postman,linux,docker,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,javascript,html,css,bootstrap,git,firebase,postman,linux,docker,vscode,phpstorm" />
 </div>
 
 <br>
