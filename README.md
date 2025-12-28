@@ -29,10 +29,10 @@ Backend Developer with over **2.5 years of experience** building scalable backen
 
 ## ⚙️ Server Management Tools:
 <div align="center">
-    <img alt="cPanel" src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" width="100" />
-    <img alt="Plesk" src="https://img.shields.io/badge/Plesk-52BCED?style=for-the-badge&logo=plesk&logoColor=white" width="100" />
-    <img alt="hPanel" src="https://img.shields.io/badge/hPanel-007ACC?style=for-the-badge&logoColor=white" width="100" />
-    <img alt="VPS" src="https://img.shields.io/badge/VPS-8A2BE2?style=for-the-badge&logo=server&logoColor=white" width="100" />
+    <img alt="cPanel" src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
+    <img alt="Plesk" src="https://img.shields.io/badge/Plesk-52BCED?style=for-the-badge&logo=plesk&logoColor=white" />
+    <img alt="hPanel" src="https://img.shields.io/badge/hPanel-007ACC?style=for-the-badge&logoColor=white" />
+    <img alt="VPS" src="https://img.shields.io/badge/VPS-8A2BE2?style=for-the-badge&logo=server&logoColor=white" />
 </div>
 
 <br>
@@ -53,19 +53,19 @@ Backend Developer with over **2.5 years of experience** building scalable backen
 
 <br>
 
-## � Featured Projects
+## 📂 Featured Projects
 
-| Project | Description | Links |
-|---|---|---|
-| **Waslny** | Dedicated ride-sharing platform for efficient in-compound transportation. | [Google Play](https://play.google.com/store/apps/details?id=com.topbusiness.waslny&pcampaignid=web_share) • [Web](https://waslny.octopusteam.net/) |
-| **Baraddy** | Smart platform for ordering and delivering fresh beverages. | [Google Play](https://play.google.com/store/apps/details?id=com.topbusiness.baraddy.user&pcampaignid=web_share) • [Web](https://app.baraddy.com/) |
-| **RDAPP** | Project management and inspection platform for engineers and clients. | [Google Play](https://play.google.com/store/apps/details?id=com.rdapp.EUA&hl=en) • [App Store](https://apps.apple.com/us/app/rdapp-client/id6743003162) |
-| **Travel Club** | Booking system for hotels, transport, and restaurants with online payments. | [Google Play](https://play.google.com/store/apps/details?id=com.topbusiness.travelclub&pcampaignid=web_share) • [App Store](https://apps.apple.com/us/app/travel-club/id6744456400) |
-| **Mawhebtac** | Platform to help talented individuals showcase skills and connect with opportunities. | [Google Play](https://play.google.com/store/apps/details?id=com.topbusiness.mawhebtak) • [App Store](https://apps.apple.com/us/app/mawhebtac/id6748575013) |
-| **TopBusiness HR** | Employee management app for tracking check-ins, salaries, and payroll. | [Google Play](https://play.google.com/store/apps/details?id=com.topbusiness.topbusinesshr) • [App Store](https://apps.apple.com/us/app/topbusiness-hr/id6738186675) |
-| **Lotel Platform** | Comprehensive hotel booking system with vendor approvals and reservations. | [Web](https://lotel.efaculty.tech/home) |
-| **Hero** | Ride-hailing app for TukTuks and motorbikes with 'Name Your Price' model. | [Google Play](https://play.google.com/store/apps/details?id=com.topbusiness.hero&pcampaignid=web_share) • [App Store](https://apps.apple.com/us/app/hero-هيرو/id6511237864) |
-| **AdPay** | E-commerce application for buying and selling used/new products. | [Google Play](https://play.google.com/store/apps/details?id=com.topbusiness.adpayapplication&pcampaignid=web_share) |
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| **Waslny** | Dedicated ride-sharing platform for efficient in-compound transportation. | Laravel, MySQL, Firebase | [Google Play](https://play.google.com/store/apps/details?id=com.topbusiness.waslny&pcampaignid=web_share) • [Web](https://waslny.octopusteam.net/) |
+| **Baraddy** | Smart platform for ordering and delivering fresh beverages. | Laravel, MySQL, Firebase | [Google Play](https://play.google.com/store/apps/details?id=com.topbusiness.baraddy.user&pcampaignid=web_share) • [Web](https://app.baraddy.com/) |
+| **RDAPP** | Project management and inspection platform for engineers and clients. | Laravel, MySQL | [Google Play](https://play.google.com/store/apps/details?id=com.rdapp.EUA&hl=en) • [App Store](https://apps.apple.com/us/app/rdapp-client/id6743003162) |
+| **Travel Club** | Booking system for hotels, transport, and restaurants with online payments. | Laravel, MySQL, Payment Gateways | [Google Play](https://play.google.com/store/apps/details?id=com.topbusiness.travelclub&pcampaignid=web_share) • [App Store](https://apps.apple.com/us/app/travel-club/id6744456400) |
+| **Mawhebtac** | Platform to help talented individuals showcase skills and connect with opportunities. | Laravel, MySQL | [Google Play](https://play.google.com/store/apps/details?id=com.topbusiness.mawhebtak) • [App Store](https://apps.apple.com/us/app/mawhebtac/id6748575013) |
+| **TopBusiness HR** | Employee management app for tracking check-ins, salaries, and payroll. | Laravel, MySQL | [Google Play](https://play.google.com/store/apps/details?id=com.topbusiness.topbusinesshr) • [App Store](https://apps.apple.com/us/app/topbusiness-hr/id6738186675) |
+| **Lotel Platform** | Comprehensive hotel booking system with vendor approvals and reservations. | Laravel, MySQL | [Web](https://lotel.efaculty.tech/home) |
+| **Hero** | Ride-hailing app for TukTuks and motorbikes with 'Name Your Price' model. | Laravel, MySQL, Firebase | [Google Play](https://play.google.com/store/apps/details?id=com.topbusiness.hero&pcampaignid=web_share) • [App Store](https://apps.apple.com/us/app/hero-هيرو/id6511237864) |
+| **AdPay** | E-commerce application for buying and selling used/new products. | Laravel, MySQL | [Google Play](https://play.google.com/store/apps/details?id=com.topbusiness.adpayapplication&pcampaignid=web_share) |
 
 <br>
 
@@ -83,7 +83,7 @@ Backend Developer with over **2.5 years of experience** building scalable backen
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:mohamed.magedi.backend@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://wa.me/201024791856">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
