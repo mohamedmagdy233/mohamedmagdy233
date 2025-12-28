@@ -9,8 +9,10 @@ Backend Developer with over **2.5 years of experience** building scalable backen
 - 🔭 I’m currently working on **open-source projects** and scalable backends at **Dom App Hub**.
 - 🌱 Continuously learning new technologies like **Docker** and **AWS**.
 - 💬 Feel free to ask me about **Laravel**, **PHP**, **System Design**, and **API Development**.
-- 📫 How to reach me: [mohamed.magedi.backend@gmail.com](mailto:mohamed.magedi.backend@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mohamed-magdy-812250223) • [WhatsApp](https://wa.me/201024791856)
+- 📫 **How to reach me**: [mohamed.magedi.backend@gmail.com](mailto:mohamed.magedi.backend@gmail.com)
 - 🌐 **My Portfolio**: [Visit My Portfolio](https://matter.octopusteam.net/)
+- 💼 **LinkedIn**: [Visit My Profile](https://www.linkedin.com/in/mohamed-magdy-812250223)
+- 💬 **WhatsApp**: [Chat with me](https://wa.me/201024791856)
 - 🖼️ Passionate about helping developers and sharing technical insights.
 
 <br>
