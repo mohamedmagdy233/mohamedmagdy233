@@ -30,11 +30,22 @@ Backend Developer with over **2.5 years of experience** building scalable backen
 <br>
 
 ## ⚙️ Server Management Tools:
+<!-- Server Types -->
+<div align="center">
+    <img alt="VPS" src="https://img.shields.io/badge/VPS-8A2BE2?style=for-the-badge&logo=server&logoColor=white" />
+    <img alt="Dedicated Server" src="https://img.shields.io/badge/Dedicated_Server-1E90FF?style=for-the-badge&logo=linux&logoColor=white" />
+    <img alt="Cloud Server" src="https://img.shields.io/badge/Cloud_Server-00C853?style=for-the-badge&logo=icloud&logoColor=white" />
+    <img alt="Shared Hosting" src="https://img.shields.io/badge/Shared_Hosting-FF9800?style=for-the-badge&logo=hostinger&logoColor=white" />
+</div>
+
+<br>
+
+<!-- Hosting Panels -->
 <div align="center">
     <img alt="cPanel" src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
     <img alt="Plesk" src="https://img.shields.io/badge/Plesk-52BCED?style=for-the-badge&logo=plesk&logoColor=white" />
     <img alt="hPanel" src="https://img.shields.io/badge/hPanel-007ACC?style=for-the-badge&logoColor=white" />
-    <img alt="VPS" src="https://img.shields.io/badge/VPS-8A2BE2?style=for-the-badge&logo=server&logoColor=white" />
+    <img alt="aaPanel" src="https://img.shields.io/badge/aaPanel-20B15A?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
 <br>
