@@ -62,7 +62,7 @@ Backend Developer with over **2.5 years of experience** building scalable backen
 | **Backend Developer** | [Dom App Hub](https://www.domapphub.com/) | Aug 2025 – Present | Kafr El-Sheikh, Egypt (Hybrid) |
 | **Co-Founder & CTO** | [Octopus Team](https://octopusteam.net/) | Jun 2023 – Present | Egypt (Hybrid) |
 | **Backend Developer** | [TopBusiness](https://topbuziness.com/ar) | Aug 2023 – Aug 2025 | Shebin El-Kom, Menoufia |
-| **Backend Developer** | [Tek Part](https://tek-part.com/) | Jan 2023 – Aug 2023 | Bani Suef, Egypt |
+| **Backend Developer** | [ Tarawud](https://tarawud.com) | Jan 2023 – Aug 2023 | Bani Suef, Egypt |
 
 <br>
 
